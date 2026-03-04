@@ -10,10 +10,6 @@
 - 🎓 2nd-year CS student at York University's Lassonde School of Engineering
 - 🔬 Research Assistant focused on data analysis & software engineering
 - 🏆 100% podium rate across hackathons (including BramHacks 2025)
-- 🌱 Currently studying **Priority Queues & Heaps** in EECS 2101
-- 🎤 Actively working on public speaking & communication skills
-- 📐 Inspired by Japanese life philosophy — Kaizen, Ikigai, Wabi-Sabi
-  
 ---
 
 ### 🛠️ Tech Stack
