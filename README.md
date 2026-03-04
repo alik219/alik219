@@ -26,4 +26,4 @@
 ![Ali's GitHub stats](https://github-readme-stats-neon-sigma-24.vercel.app/api?username=alik219&show_icons=false&theme=radical)
 ---
 
-<p align="center"><i>"Fall seven times, stand up eight."</i></p>
+<img src="https://raw.githubusercontent.com/alik219/alik219/output/snake.svg" alt="Snake animation" />
