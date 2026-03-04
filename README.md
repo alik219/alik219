@@ -28,8 +28,7 @@
 
 ### 📊 GitHub Stats
 
-[![Ali's GitHub stats](https://github-readme-stats.neon-sigma-24.vercel.app/api?username=alik219)](https://github.com/alik219/github-readme-stats)
-
+![Ali's GitHub stats](https://github-readme-stats-neon-sigma-24.vercel.app/api?username=alik219&show_icons=true&theme=radical)
 ---
 
 <p align="center"><i>"Fall seven times, stand up eight."</i></p>
