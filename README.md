@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats-neon-sigma-24.vercel.app/api?username=alik219&show_icons=false&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats-neon-sigma-24.vercel.app/api?username=alik219&show_icons=true&theme=radical&cache_seconds=86400)
 ---
 
 <!--![Snake animation](https://raw.githubusercontent.com/alik219/alik219/output/github-contribution-grid-snake.svg) -->
