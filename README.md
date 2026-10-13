@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 2nd-year CS student at York University's Lassonde School of Engineering
+- 🎓 3rd-year CS student at York University's Lassonde School of Engineering
 - 🔬 Research Assistant focused on data analysis & software engineering
 - 🏆 100% podium rate across hackathons (including BramHacks 2025)
 ---
